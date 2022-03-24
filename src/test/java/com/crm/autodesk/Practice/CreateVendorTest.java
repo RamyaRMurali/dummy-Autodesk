@@ -6,5 +6,6 @@ public class CreateVendorTest {
 	@Test
 	public void createVendor() {
 		System.out.println("created vendor");
+		System.out.println("modified vendor");
 	}
 }
