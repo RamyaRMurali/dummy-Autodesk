@@ -9,9 +9,12 @@ public class CreateContactTest {
 
 		System.out.println(" contact modified");
 		
-		System.out.println("contact deleted");
-		System.out.println("contact deleted successfully");
+		System.out.println(" prathith contact deleted");
 		
+		
+		
+		
+		System.out.println("prathith contact deleted successfully");
 		
 		
 		
