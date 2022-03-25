@@ -8,10 +8,26 @@ public class CreateContactTest {
 		System.out.println("created contact");
 
 
+
 		System.out.println("contact modified");
 
 		
+
+		System.out.println(" contact modified");
+
+		
+		System.out.println(" prathith contact deleted");
+		
+		
+		
+		
+		System.out.println("prathith contact deleted successfully");
+		
+	
+
+
 		System.out.println("Sangeeta modified this class...");
 
 	}
+
 }
