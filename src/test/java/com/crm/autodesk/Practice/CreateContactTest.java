@@ -8,7 +8,7 @@ public class CreateContactTest {
 		System.out.println("created contact");
 
 		System.out.println(" contact modified");
-		System.out.println("Sangeeta modified this class");
+		System.out.println("Sangeeta modified this class...");
 
 	}
 }
